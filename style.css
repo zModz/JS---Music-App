@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 body{
     background-color: lightgreen;
     transition: background-color .5s;
+    font-family: "Roboto", sans-serif;
 }
 
 .player{
